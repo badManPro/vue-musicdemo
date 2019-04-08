@@ -1,29 +1,10 @@
 # vue-music
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
+##预览效果需要
 ```
+git clone https://github.com/badManPro/vue-musicdemo.git
+
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
